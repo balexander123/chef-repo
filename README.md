@@ -64,3 +64,11 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+
+Gapisms
+=======
+
+This repo is inspired by this blog series: http://neverstopbuilding.net/chef-best-practices-a-series/
+
+I will attempt to define chef best practices as practiced at GID Gap Inc.
+
