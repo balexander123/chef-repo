@@ -16,6 +16,13 @@ This repository contains several directories, and each directory contains a READ
 * `data_bags/` - Store data bags and items in .json in the repository.
 * `roles/` - Store roles in .rb or .json in the repository.
 
+Build Status
+============
+
+Master branch: [![Build Status](https://travis-ci.org/balexander123/chef-repo.png?branch=master)](https://travis-ci.org/balexander123/chef-repo)
+
+Develop branch: [![Build Status](https://travis-ci.org/balexander123/chef-repo.png?branch=develop)](https://travis-ci.org/balexander123/chef-repo)
+
 Rake Tasks
 ==========
 
